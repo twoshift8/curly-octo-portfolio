@@ -4,6 +4,7 @@ Tampermonkey Script Built with ChatGPT's Help
 
 This script helps streamline job searching on Columbia University's job board targeted specifically for research positions.
 
+---
 ### What It Does
     Auto-selects “Research” filter on Columbia’s job page (since the site annoyingly forgets your filters)
 
