@@ -15,4 +15,4 @@ This folder includes selected Python scripts from my coursework in Harvard's CS5
 - **twttr.py**: Removes vowels from input text. Demonstrates text processing and transformation.
 
 
-I’m still learning, but these are a few projects which reflect my ability to pick up new tools quickly, think through structured problems, and translate logic into working code.
+Still learning, but these are some projects which reflect my ability to pick up new tools quickly and translate logic into working code.
