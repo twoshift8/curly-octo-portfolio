@@ -1,4 +1,4 @@
-#Columbia Job Helper
+# Columbia Job Helper
 
 Tampermonkey Script Built with ChatGPT's Help
 
@@ -36,14 +36,14 @@ I haven't yet learned JS, but I leveraged my Python background and worked with C
 
 ---
 ### What It Shows
-By *no* means am I a JS expert, and that's not what this is meant to demonstrate. To me, this codifies my flexibility to overcome real obstaches and resolve problems using every tool at my disposal. I used ChatGPT to build this script, combining my programming logic from Python with AI assistance. Now, I have a working tool that does exactly what I needed, and I know how to implement more in the future.
+By *no* means am I an expert in JS, and that's not what this is meant to demonstrate. To me, this codifies my flexibility to overcome real obstaches and resolve problems using every tool at my disposal. I used ChatGPT to build this script, combining my programming logic from Python with AI assistance. Now, I have a working tool that does exactly what I needed, and I know how to implement more in the future.
 
 ---
 ### What It Doesn't Do
 
-    It doesn’t apply for jobs (more details available upon inquiry).
+    - It doesn’t apply for jobs (more details available upon inquiry).
 
-    It doesn’t store or track anything, just runs locally in your browser like any extension.
+    - It doesn’t store or track anything, just runs locally in your browser like any extension.
 
 --- 
 ### A Note on AI Involvement
