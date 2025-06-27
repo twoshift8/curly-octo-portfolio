@@ -1,9 +1,6 @@
 # curly-octo-portfolio
 *Some of my projects.*
 
-*You can also explore this portfolio online at:  
-https://github.com/twoshift8/curly-octo-portfolio*
-
 # Code Samples 
 
 This folder includes a few Python scripts I made in Harvard's CS50 Introduction to Computer Science. This showcases some Python scripts which demonstrate skills in data validation, string manipulation, algorithmic problem-solving, etc.
