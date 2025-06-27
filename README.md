@@ -1,5 +1,6 @@
 # curly-octo-portfolio
 *Some of my projects.*
+
 *You can also explore this portfolio online at:  
 https://github.com/twoshift8/curly-octo-portfolio*
 
